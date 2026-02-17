@@ -1,0 +1,10 @@
+README.md
+setup.py
+topsis/__init__.py
+topsis/cli.py
+topsis_eva_102317129.egg-info/PKG-INFO
+topsis_eva_102317129.egg-info/SOURCES.txt
+topsis_eva_102317129.egg-info/dependency_links.txt
+topsis_eva_102317129.egg-info/entry_points.txt
+topsis_eva_102317129.egg-info/requires.txt
+topsis_eva_102317129.egg-info/top_level.txt
